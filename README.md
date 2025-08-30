@@ -1,12 +1,15 @@
 # Rose Pine Wallpapers
-I converted all of my wallpapers to rose-pine with [lutgen](https://github.com/ozwaldorf/lutgen-rs). all should be 3440x1400.
+I converted all of the wallpapers to rose-pine with [lutgen](https://github.com/ozwaldorf/lutgen-rs). 
 ![](amazing.png)
-![](cat_bedroom1.png)
 ![](cherry_tree.png)
 ![](ferns.png)
+![](103839408.png)
+![](102993853.png)
 ![](flowers.png)
 ![](landscape.png)
+![](cat_bedroom1.png)
 ![](moutain2.png)
+![](girl_with_frog.png)
 ![](moutains.png)
 ![](ocean_view.png)
 ![](wave_circle.png)
